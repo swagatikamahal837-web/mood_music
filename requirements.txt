@@ -1,4 +1,2 @@
 Flask
-deepface
 gunicorn
-requests
