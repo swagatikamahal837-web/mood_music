@@ -1,6 +1,6 @@
 # Mood Music Recommendation App
 
-A Flask-based web application that detects user mood and recommends matching music playlists using the Jamendo API.
+A Flask-based web application that detects user mood and recommends matching music  using the Jamendo API.
 
 ## Features
 - **Mood Detection:** Analyzes input/emotions to determine mood.
